@@ -1,0 +1,504 @@
+[15-Feb-2017 07:38:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/lib/logout.php on line 7
+[15-Feb-2017 07:49:56 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/ubuntu/workspace/lib/logout.php on line 13
+[15-Feb-2017 07:52:05 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/ubuntu/workspace/lib/logout.php on line 15
+[15-Feb-2017 07:52:14 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/ubuntu/workspace/lib/logout.php on line 15
+[15-Feb-2017 07:52:15 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/ubuntu/workspace/lib/logout.php on line 15
+[15-Feb-2017 07:52:18 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/ubuntu/workspace/lib/logout.php on line 15
+[15-Feb-2017 07:52:23 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/ubuntu/workspace/lib/logout.php on line 15
+[15-Feb-2017 07:53:01 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/ubuntu/workspace/lib/logout.php on line 15
+[15-Feb-2017 07:53:03 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/ubuntu/workspace/lib/logout.php on line 15
+[15-Feb-2017 07:53:40 UTC] PHP Parse error:  syntax error, unexpected 'self' (T_STRING), expecting function (T_FUNCTION) in /home/ubuntu/workspace/lib/logout.php on line 15
+[15-Feb-2017 07:54:10 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/ubuntu/workspace/lib/logout.php on line 16
+[15-Feb-2017 07:54:41 UTC] PHP Fatal error:  Class 'Logout' not found in /home/ubuntu/workspace/lib/logout.php on line 6
+[15-Feb-2017 07:54:41 UTC] PHP Stack trace:
+[15-Feb-2017 07:54:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/logout.php:0
+[15-Feb-2017 07:56:33 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/ubuntu/workspace/lib/logout.php on line 13
+[15-Feb-2017 07:58:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/lib/logout.php on line 17
+[15-Feb-2017 07:59:04 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/lib/logout.php on line 13
+[15-Feb-2017 07:59:04 UTC] PHP Stack trace:
+[15-Feb-2017 07:59:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/logout.php:0
+[15-Feb-2017 07:59:04 UTC] PHP   2. Logout::show() /home/ubuntu/workspace/lib/logout.php:17
+[15-Feb-2017 07:59:41 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/lib/logout.php on line 13
+[15-Feb-2017 07:59:41 UTC] PHP Stack trace:
+[15-Feb-2017 07:59:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/logout.php:0
+[15-Feb-2017 07:59:41 UTC] PHP   2. Logout::show() /home/ubuntu/workspace/lib/logout.php:17
+[15-Feb-2017 08:26:20 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/lib/auth.php on line 8
+[15-Feb-2017 08:36:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/lib/auth.php on line 25
+[15-Feb-2017 08:39:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/lib/auth.php on line 25
+[15-Feb-2017 08:40:26 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/ubuntu/workspace/lib/auth.php on line 32
+[15-Feb-2017 08:43:10 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/lib/auth.php on line 24
+[15-Feb-2017 08:43:10 UTC] PHP Stack trace:
+[15-Feb-2017 08:43:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/auth.php:0
+[15-Feb-2017 08:43:10 UTC] PHP   2. Auth->_logout() /home/ubuntu/workspace/lib/auth.php:37
+[15-Feb-2017 08:43:10 UTC] PHP   3. session_destroy() /home/ubuntu/workspace/lib/auth.php:24
+[15-Feb-2017 18:02:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting ',' or ';' in /home/ubuntu/workspace/lib/reg.php on line 10
+[15-Feb-2017 18:03:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting ',' or ';' in /home/ubuntu/workspace/lib/reg.php on line 10
+[15-Feb-2017 18:03:15 UTC] PHP Parse error:  syntax error, unexpected '$repeat' (T_VARIABLE) in /home/ubuntu/workspace/lib/reg.php on line 20
+[15-Feb-2017 18:40:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/lib/reg.php on line 25
+[15-Feb-2017 21:12:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/lib/reg.php on line 29
+[15-Feb-2017 21:25:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/lib/reg.php on line 58
+[15-Feb-2017 21:25:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/lib/reg.php on line 59
+[15-Feb-2017 21:33:47 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:33:47 UTC] PHP Stack trace:
+[15-Feb-2017 21:33:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:33:47 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:33:47 UTC] PHP   3. mysqli_real_escape_string() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:33:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:33:47 UTC] PHP Stack trace:
+[15-Feb-2017 21:33:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:33:47 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:33:47 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:33:47 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/lib/reg.php on line 67
+[15-Feb-2017 21:33:47 UTC] PHP Stack trace:
+[15-Feb-2017 21:33:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:33:47 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:33:53 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:33:53 UTC] PHP Stack trace:
+[15-Feb-2017 21:33:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:33:53 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:33:53 UTC] PHP   3. mysqli_real_escape_string() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:33:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:33:53 UTC] PHP Stack trace:
+[15-Feb-2017 21:33:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:33:53 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:33:53 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:33:53 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/lib/reg.php on line 67
+[15-Feb-2017 21:33:53 UTC] PHP Stack trace:
+[15-Feb-2017 21:33:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:33:53 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:34:20 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:20 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:20 UTC] PHP   3. mysqli_real_escape_string() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:34:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:34:20 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:20 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:20 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:34:20 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/lib/reg.php on line 67
+[15-Feb-2017 21:34:20 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:20 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:34:25 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:25 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:25 UTC] PHP   3. mysqli_real_escape_string() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:34:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:34:25 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:25 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:25 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:34:25 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/lib/reg.php on line 67
+[15-Feb-2017 21:34:25 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:25 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:51 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:34:51 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:51 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:51 UTC] PHP   3. mysql_real_escape_string() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:34:51 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:34:51 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:51 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:51 UTC] PHP   3. mysql_real_escape_string() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:34:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:34:51 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:51 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:51 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:34:51 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/lib/reg.php on line 67
+[15-Feb-2017 21:34:51 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:51 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:58 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:34:58 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:58 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:58 UTC] PHP   3. mysql_real_escape_string() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:34:58 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:34:58 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:58 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:58 UTC] PHP   3. mysql_real_escape_string() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:34:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:34:58 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:58 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:34:58 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:34:58 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/lib/reg.php on line 67
+[15-Feb-2017 21:34:58 UTC] PHP Stack trace:
+[15-Feb-2017 21:34:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:34:58 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:35:07 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:35:07 UTC] PHP Stack trace:
+[15-Feb-2017 21:35:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:35:07 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:35:07 UTC] PHP   3. mysql_real_escape_string() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:35:07 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:35:07 UTC] PHP Stack trace:
+[15-Feb-2017 21:35:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:35:07 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:35:07 UTC] PHP   3. mysql_real_escape_string() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:35:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:35:07 UTC] PHP Stack trace:
+[15-Feb-2017 21:35:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:35:07 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:35:07 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:35:07 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/lib/reg.php on line 67
+[15-Feb-2017 21:35:07 UTC] PHP Stack trace:
+[15-Feb-2017 21:35:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:35:07 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:35:11 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:35:11 UTC] PHP Stack trace:
+[15-Feb-2017 21:35:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:35:11 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:35:11 UTC] PHP   3. mysql_real_escape_string() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:35:11 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:35:11 UTC] PHP Stack trace:
+[15-Feb-2017 21:35:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:35:11 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:35:11 UTC] PHP   3. mysql_real_escape_string() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:35:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:35:11 UTC] PHP Stack trace:
+[15-Feb-2017 21:35:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:35:11 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:35:11 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:35:11 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/lib/reg.php on line 67
+[15-Feb-2017 21:35:11 UTC] PHP Stack trace:
+[15-Feb-2017 21:35:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:35:11 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:35:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:35:29 UTC] PHP Stack trace:
+[15-Feb-2017 21:35:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:35:29 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:35:29 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:35:29 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/lib/reg.php on line 67
+[15-Feb-2017 21:35:29 UTC] PHP Stack trace:
+[15-Feb-2017 21:35:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:35:29 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:35:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 66
+[15-Feb-2017 21:35:36 UTC] PHP Stack trace:
+[15-Feb-2017 21:35:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:35:36 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:35:36 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:66
+[15-Feb-2017 21:35:36 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/lib/reg.php on line 67
+[15-Feb-2017 21:35:36 UTC] PHP Stack trace:
+[15-Feb-2017 21:35:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:35:36 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:36:25 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/lib/reg.php on line 67
+[15-Feb-2017 21:36:25 UTC] PHP Stack trace:
+[15-Feb-2017 21:36:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:36:25 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:39:41 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/lib/reg.php on line 70
+[15-Feb-2017 21:39:41 UTC] PHP Stack trace:
+[15-Feb-2017 21:39:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:39:41 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:83
+[15-Feb-2017 21:41:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/lib/reg.php on line 39
+[15-Feb-2017 21:43:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 75
+[15-Feb-2017 21:43:59 UTC] PHP Stack trace:
+[15-Feb-2017 21:43:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:43:59 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:85
+[15-Feb-2017 21:43:59 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:75
+[15-Feb-2017 21:46:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 75
+[15-Feb-2017 21:46:20 UTC] PHP Stack trace:
+[15-Feb-2017 21:46:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:46:20 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:85
+[15-Feb-2017 21:46:20 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:75
+[15-Feb-2017 21:46:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 75
+[15-Feb-2017 21:46:28 UTC] PHP Stack trace:
+[15-Feb-2017 21:46:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:46:28 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:85
+[15-Feb-2017 21:46:28 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:75
+[15-Feb-2017 21:46:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 75
+[15-Feb-2017 21:46:37 UTC] PHP Stack trace:
+[15-Feb-2017 21:46:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:46:37 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:85
+[15-Feb-2017 21:46:37 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:75
+[15-Feb-2017 21:46:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 75
+[15-Feb-2017 21:46:41 UTC] PHP Stack trace:
+[15-Feb-2017 21:46:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:46:41 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:85
+[15-Feb-2017 21:46:41 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:75
+[15-Feb-2017 21:46:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 75
+[15-Feb-2017 21:46:47 UTC] PHP Stack trace:
+[15-Feb-2017 21:46:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:46:47 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:85
+[15-Feb-2017 21:46:47 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:75
+[15-Feb-2017 21:47:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 75
+[15-Feb-2017 21:47:00 UTC] PHP Stack trace:
+[15-Feb-2017 21:47:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:47:00 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:85
+[15-Feb-2017 21:47:00 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:75
+[15-Feb-2017 21:48:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 74
+[15-Feb-2017 21:48:19 UTC] PHP Stack trace:
+[15-Feb-2017 21:48:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:48:19 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:91
+[15-Feb-2017 21:48:19 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:74
+[15-Feb-2017 21:48:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 74
+[15-Feb-2017 21:48:25 UTC] PHP Stack trace:
+[15-Feb-2017 21:48:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:48:25 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:91
+[15-Feb-2017 21:48:25 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:74
+[15-Feb-2017 21:48:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 74
+[15-Feb-2017 21:48:29 UTC] PHP Stack trace:
+[15-Feb-2017 21:48:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:48:29 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:91
+[15-Feb-2017 21:48:29 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:74
+[15-Feb-2017 21:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 74
+[15-Feb-2017 21:48:49 UTC] PHP Stack trace:
+[15-Feb-2017 21:48:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:48:49 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:91
+[15-Feb-2017 21:48:49 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:74
+[15-Feb-2017 21:49:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 74
+[15-Feb-2017 21:49:00 UTC] PHP Stack trace:
+[15-Feb-2017 21:49:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:49:00 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:91
+[15-Feb-2017 21:49:00 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:74
+[15-Feb-2017 21:49:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 74
+[15-Feb-2017 21:49:05 UTC] PHP Stack trace:
+[15-Feb-2017 21:49:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:49:05 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:91
+[15-Feb-2017 21:49:05 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:74
+[15-Feb-2017 21:56:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 78
+[15-Feb-2017 21:56:10 UTC] PHP Stack trace:
+[15-Feb-2017 21:56:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:56:10 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:90
+[15-Feb-2017 21:56:10 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:78
+[15-Feb-2017 21:56:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/lib/reg.php on line 79
+[15-Feb-2017 21:56:10 UTC] PHP Stack trace:
+[15-Feb-2017 21:56:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:56:10 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:90
+[15-Feb-2017 21:56:10 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/lib/reg.php:79
+[15-Feb-2017 21:56:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/lib/reg.php on line 78
+[15-Feb-2017 21:56:15 UTC] PHP Stack trace:
+[15-Feb-2017 21:56:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:56:15 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:90
+[15-Feb-2017 21:56:15 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:78
+[15-Feb-2017 21:56:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/lib/reg.php on line 79
+[15-Feb-2017 21:56:15 UTC] PHP Stack trace:
+[15-Feb-2017 21:56:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:56:15 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:90
+[15-Feb-2017 21:56:15 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/lib/reg.php:79
+[15-Feb-2017 21:56:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/lib/reg.php on line 78
+[15-Feb-2017 21:56:33 UTC] PHP Stack trace:
+[15-Feb-2017 21:56:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:56:33 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:90
+[15-Feb-2017 21:56:33 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:78
+[15-Feb-2017 21:56:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/lib/reg.php on line 79
+[15-Feb-2017 21:56:33 UTC] PHP Stack trace:
+[15-Feb-2017 21:56:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:56:33 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:90
+[15-Feb-2017 21:56:33 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/lib/reg.php:79
+[15-Feb-2017 21:57:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/lib/reg.php on line 77
+[15-Feb-2017 21:57:24 UTC] PHP Stack trace:
+[15-Feb-2017 21:57:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:57:24 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:91
+[15-Feb-2017 21:57:24 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/lib/reg.php:77
+[15-Feb-2017 21:57:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lib/reg.php on line 79
+[15-Feb-2017 21:57:24 UTC] PHP Stack trace:
+[15-Feb-2017 21:57:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:57:24 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:91
+[15-Feb-2017 21:57:24 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:79
+[15-Feb-2017 21:57:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/lib/reg.php on line 80
+[15-Feb-2017 21:57:24 UTC] PHP Stack trace:
+[15-Feb-2017 21:57:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:57:24 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:91
+[15-Feb-2017 21:57:24 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:57:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/lib/reg.php on line 78
+[15-Feb-2017 21:57:49 UTC] PHP Stack trace:
+[15-Feb-2017 21:57:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:57:49 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:92
+[15-Feb-2017 21:57:49 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/lib/reg.php:78
+[15-Feb-2017 21:57:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lib/reg.php on line 80
+[15-Feb-2017 21:57:49 UTC] PHP Stack trace:
+[15-Feb-2017 21:57:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:57:49 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:92
+[15-Feb-2017 21:57:49 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:57:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/lib/reg.php on line 81
+[15-Feb-2017 21:57:49 UTC] PHP Stack trace:
+[15-Feb-2017 21:57:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:57:49 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:92
+[15-Feb-2017 21:57:49 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/lib/reg.php:81
+[15-Feb-2017 21:58:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/lib/reg.php on line 78
+[15-Feb-2017 21:58:04 UTC] PHP Stack trace:
+[15-Feb-2017 21:58:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:58:04 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:92
+[15-Feb-2017 21:58:04 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/lib/reg.php:78
+[15-Feb-2017 21:58:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lib/reg.php on line 80
+[15-Feb-2017 21:58:04 UTC] PHP Stack trace:
+[15-Feb-2017 21:58:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:58:04 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:92
+[15-Feb-2017 21:58:04 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:58:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/lib/reg.php on line 81
+[15-Feb-2017 21:58:04 UTC] PHP Stack trace:
+[15-Feb-2017 21:58:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:58:04 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:92
+[15-Feb-2017 21:58:04 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/lib/reg.php:81
+[15-Feb-2017 21:58:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/lib/reg.php on line 78
+[15-Feb-2017 21:58:09 UTC] PHP Stack trace:
+[15-Feb-2017 21:58:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:58:09 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:92
+[15-Feb-2017 21:58:09 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/lib/reg.php:78
+[15-Feb-2017 21:58:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lib/reg.php on line 80
+[15-Feb-2017 21:58:09 UTC] PHP Stack trace:
+[15-Feb-2017 21:58:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:58:09 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:92
+[15-Feb-2017 21:58:09 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:58:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/lib/reg.php on line 81
+[15-Feb-2017 21:58:09 UTC] PHP Stack trace:
+[15-Feb-2017 21:58:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:58:09 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:92
+[15-Feb-2017 21:58:09 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/lib/reg.php:81
+[15-Feb-2017 21:58:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/lib/reg.php on line 78
+[15-Feb-2017 21:58:14 UTC] PHP Stack trace:
+[15-Feb-2017 21:58:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:58:14 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:92
+[15-Feb-2017 21:58:14 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/lib/reg.php:78
+[15-Feb-2017 21:58:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lib/reg.php on line 80
+[15-Feb-2017 21:58:14 UTC] PHP Stack trace:
+[15-Feb-2017 21:58:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:58:14 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:92
+[15-Feb-2017 21:58:14 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 21:58:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/lib/reg.php on line 81
+[15-Feb-2017 21:58:14 UTC] PHP Stack trace:
+[15-Feb-2017 21:58:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:58:14 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:92
+[15-Feb-2017 21:58:14 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/lib/reg.php:81
+[15-Feb-2017 21:59:05 UTC] PHP Warning:  require(config/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/lib/reg.php on line 5
+[15-Feb-2017 21:59:05 UTC] PHP Stack trace:
+[15-Feb-2017 21:59:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 21:59:05 UTC] PHP Fatal error:  require(): Failed opening required 'config/config.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/lib/reg.php on line 5
+[15-Feb-2017 21:59:05 UTC] PHP Stack trace:
+[15-Feb-2017 21:59:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:02:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/ubuntu/workspace/lib/reg.php on line 78
+[15-Feb-2017 22:02:26 UTC] PHP Stack trace:
+[15-Feb-2017 22:02:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:02:26 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:89
+[15-Feb-2017 22:02:26 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/lib/reg.php:78
+[15-Feb-2017 22:02:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/ubuntu/workspace/lib/reg.php on line 78
+[15-Feb-2017 22:02:31 UTC] PHP Stack trace:
+[15-Feb-2017 22:02:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:02:31 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:89
+[15-Feb-2017 22:02:31 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/lib/reg.php:78
+[15-Feb-2017 22:03:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/lib/reg.php on line 78
+[15-Feb-2017 22:03:11 UTC] PHP Stack trace:
+[15-Feb-2017 22:03:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:03:11 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:89
+[15-Feb-2017 22:03:11 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/lib/reg.php:78
+[15-Feb-2017 22:05:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/lib/reg.php on line 83
+[15-Feb-2017 22:06:27 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/lib/reg.php on line 77
+[15-Feb-2017 22:06:38 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/lib/reg.php on line 77
+[15-Feb-2017 22:07:06 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/lib/reg.php on line 77
+[15-Feb-2017 22:07:06 UTC] PHP Stack trace:
+[15-Feb-2017 22:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:07:06 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:88
+[15-Feb-2017 22:07:13 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/lib/reg.php on line 77
+[15-Feb-2017 22:07:13 UTC] PHP Stack trace:
+[15-Feb-2017 22:07:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:07:13 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:88
+[15-Feb-2017 22:07:37 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/lib/reg.php on line 77
+[15-Feb-2017 22:07:37 UTC] PHP Stack trace:
+[15-Feb-2017 22:07:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:07:37 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:87
+[15-Feb-2017 22:08:43 UTC] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/ubuntu/workspace/lib/reg.php on line 89
+[15-Feb-2017 22:08:43 UTC] PHP Stack trace:
+[15-Feb-2017 22:08:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:08:43 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:99
+[15-Feb-2017 22:08:48 UTC] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/ubuntu/workspace/lib/reg.php on line 89
+[15-Feb-2017 22:08:48 UTC] PHP Stack trace:
+[15-Feb-2017 22:08:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:08:48 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:99
+[15-Feb-2017 22:09:25 UTC] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/ubuntu/workspace/lib/reg.php on line 89
+[15-Feb-2017 22:09:25 UTC] PHP Stack trace:
+[15-Feb-2017 22:09:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:09:25 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:99
+[15-Feb-2017 22:09:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/lib/reg.php on line 90
+[15-Feb-2017 22:11:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/lib/reg.php on line 81
+[15-Feb-2017 22:11:50 UTC] PHP Stack trace:
+[15-Feb-2017 22:11:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:11:50 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:94
+[15-Feb-2017 22:11:50 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/lib/reg.php:81
+[15-Feb-2017 22:11:50 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/lib/reg.php on line 83
+[15-Feb-2017 22:11:50 UTC] PHP Stack trace:
+[15-Feb-2017 22:11:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:11:50 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:94
+[15-Feb-2017 22:11:50 UTC] PHP   3. mysqli->query() /home/ubuntu/workspace/lib/reg.php:83
+[15-Feb-2017 22:18:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/config/config.php on line 17
+[15-Feb-2017 22:18:52 UTC] PHP Stack trace:
+[15-Feb-2017 22:18:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:18:52 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:99
+[15-Feb-2017 22:18:52 UTC] PHP   3. pmysqli->__construct() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 22:18:52 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/config/config.php:17
+[15-Feb-2017 22:18:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/config/config.php on line 17
+[15-Feb-2017 22:18:58 UTC] PHP Stack trace:
+[15-Feb-2017 22:18:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:18:58 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:99
+[15-Feb-2017 22:18:58 UTC] PHP   3. pmysqli->__construct() /home/ubuntu/workspace/lib/reg.php:80
+[15-Feb-2017 22:18:58 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/config/config.php:17
+[15-Feb-2017 22:21:09 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/lib/reg.php on line 80
+[15-Feb-2017 22:21:09 UTC] PHP Stack trace:
+[15-Feb-2017 22:21:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:21:09 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:97
+[15-Feb-2017 22:24:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/lib/reg.php on line 91
+[15-Feb-2017 22:24:39 UTC] PHP Stack trace:
+[15-Feb-2017 22:24:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:25:13 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/lib/reg.php on line 91
+[15-Feb-2017 22:25:13 UTC] PHP Stack trace:
+[15-Feb-2017 22:25:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:25:19 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/lib/reg.php on line 91
+[15-Feb-2017 22:25:19 UTC] PHP Stack trace:
+[15-Feb-2017 22:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:27:02 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/lib/reg.php on line 80
+[15-Feb-2017 22:27:02 UTC] PHP Stack trace:
+[15-Feb-2017 22:27:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:27:02 UTC] PHP   2. Reg->addUser() /home/ubuntu/workspace/lib/reg.php:100
+[15-Feb-2017 22:59:19 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/lib/reg.php on line 111
+[15-Feb-2017 22:59:19 UTC] PHP Stack trace:
+[15-Feb-2017 22:59:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 22:59:25 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/lib/reg.php on line 111
+[15-Feb-2017 22:59:25 UTC] PHP Stack trace:
+[15-Feb-2017 22:59:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 23:00:10 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/lib/reg.php on line 111
+[15-Feb-2017 23:00:10 UTC] PHP Stack trace:
+[15-Feb-2017 23:00:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 23:10:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/lib/reg.php on line 114
+[15-Feb-2017 23:10:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/lib/reg.php on line 114
+[15-Feb-2017 23:25:52 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/ubuntu/workspace/lib/reg.php on line 122
+[15-Feb-2017 23:25:52 UTC] PHP Stack trace:
+[15-Feb-2017 23:25:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 23:25:58 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/ubuntu/workspace/lib/reg.php on line 122
+[15-Feb-2017 23:25:58 UTC] PHP Stack trace:
+[15-Feb-2017 23:25:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[15-Feb-2017 23:29:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/lib/reg.php on line 121
+[15-Feb-2017 23:31:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/lib/reg.php on line 114
+[15-Feb-2017 23:31:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/lib/reg.php on line 114
+[15-Feb-2017 23:32:39 UTC] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE) in /home/ubuntu/workspace/lib/reg.php on line 114
+[15-Feb-2017 23:43:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/lib/reg.php on line 116
+[15-Feb-2017 23:43:36 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/ubuntu/workspace/lib/reg.php on line 132
+[15-Feb-2017 23:43:36 UTC] PHP Stack trace:
+[15-Feb-2017 23:43:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/reg.php:0
+[16-Feb-2017 00:29:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/lib/reg.php on line 111
+[16-Feb-2017 00:30:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/lib/reg.php on line 112
+[16-Feb-2017 02:30:05 UTC] PHP Fatal error:  Cannot redeclare class site in /home/ubuntu/workspace/config/config.php on line 35
+[16-Feb-2017 02:30:05 UTC] PHP Stack trace:
+[16-Feb-2017 02:30:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/auth.php:0
+[16-Feb-2017 02:30:05 UTC] PHP   2. require() /home/ubuntu/workspace/lib/auth.php:3
+[16-Feb-2017 03:16:35 UTC] PHP Parse error:  syntax error, unexpected '^' in /home/ubuntu/workspace/lib/auth.php on line 32
+[16-Feb-2017 03:16:44 UTC] PHP Parse error:  syntax error, unexpected '^' in /home/ubuntu/workspace/lib/auth.php on line 32
+[16-Feb-2017 03:18:42 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/ubuntu/workspace/lib/auth.php on line 37
+[16-Feb-2017 03:28:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ubuntu/workspace/lib/auth.php on line 58
+[16-Feb-2017 04:04:03 UTC] PHP Fatal error:  Class 'Auth' not found in /home/ubuntu/workspace/lib/auth.php on line 10
+[16-Feb-2017 04:04:03 UTC] PHP Stack trace:
+[16-Feb-2017 04:04:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/auth.php:0
+[16-Feb-2017 04:05:10 UTC] PHP Fatal error:  Call to a member function _isUserIN() on a non-object in /home/ubuntu/workspace/lib/auth.php on line 13
+[16-Feb-2017 04:05:10 UTC] PHP Stack trace:
+[16-Feb-2017 04:05:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/auth.php:0
+[16-Feb-2017 04:06:59 UTC] PHP Fatal error:  Call to a member function logout() on a non-object in /home/ubuntu/workspace/lib/auth.php on line 24
+[16-Feb-2017 04:06:59 UTC] PHP Stack trace:
+[16-Feb-2017 04:06:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/auth.php:0
+[16-Feb-2017 04:10:13 UTC] PHP Fatal error:  Call to a member function _isUserIN() on a non-object in /home/ubuntu/workspace/lib/auth.php on line 32
+[16-Feb-2017 04:10:13 UTC] PHP Stack trace:
+[16-Feb-2017 04:10:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/lib/auth.php:0
